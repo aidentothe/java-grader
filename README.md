@@ -52,7 +52,7 @@ The Java Type-Along Grader is a Python tool for comparing and grading student Ja
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/trrt-good/JavaTypeAlongGrader.git
+   git clone https://github.com/aidentothe/java-grader.git
    cd JavaTypeAlongGrader
    ```
 
